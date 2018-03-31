@@ -14,5 +14,3 @@ instance, if only 1 of the 2 number fields are entered, pushing a button will ca
 exit. The same can be said about leaving both fields blank or using a non-number (i.e. a period or dash)
 in either or both fields.  To fix this issue, I incorporated try-catch blocks in conjunction with toast
 messages to display an error. This process was also used to catch arithmetic exceptions such as divideByZero.
-
-https://github.com/johnnyn1261/SimpleAndroidCalculator
